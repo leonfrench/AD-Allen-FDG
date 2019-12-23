@@ -1,4 +1,11 @@
-# Alzheimer's PET analysis
+# Transcriptomic analysis of brain hypometabolism links the cholinergic and gingipain hypotheses of Alzheimer’s disease pathogenesis
+
+Authors: Sejal Patel, Derek Howard, Alana Man, Deborah Schwartz, Joelle Jee, Daniel Felsky, Zdenka Pausova, Tomas Paus, Leon French
+
+This code is for the analysis in the preprint at:
+
+Also, the figshare repository at:
+https://figshare.com/articles/Transcriptomic_analysis_of_brain_hypometabolism_links_the_cholinergic_and_gingipain_hypotheses_of_Alzheimer_s_disease_pathogenesis/9887438
 
 Normalized microarray and RNA sequencing data (http://human.brain-map.org/static/download) from the Allen Human Brain Atlas project must first be downloaded to conduct analysis. These files are to be placed in /data/raw/allen_hba (folder for each donor).
 
