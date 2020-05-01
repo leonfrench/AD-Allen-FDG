@@ -1,12 +1,12 @@
-# Transcriptomic analysis of brain hypometabolism links the cholinergic and gingipain hypotheses of Alzheimer’s disease pathogenesis
+# Donor specific transcriptomic analysis of Alzheimer's disease associated hypometabolism highlights a unique donor, microglia, and ribosomal proteins
 
 Authors: Sejal Patel, Derek Howard, Alana Man, Deborah Schwartz, Joelle Jee, Daniel Felsky, Zdenka Pausova, Tomas Paus, Leon French
 
 This code is for the analysis in the preprint at:
-https://www.biorxiv.org/content/10.1101/2019.12.23.887364v3
+
 
 Also, the figshare repository at:
-https://figshare.com/articles/Transcriptomic_analysis_of_brain_hypometabolism_links_the_cholinergic_and_gingipain_hypotheses_of_Alzheimer_s_disease_pathogenesis/9887438
+https://figshare.com/articles/Donor_specific_transcriptomic_analysis_of_Alzheimer_s_disease_associated_hypometabolism_highlights_a_unique_donor_microglia_and_ribosomal_proteins/12233552
 
 Normalized microarray and RNA sequencing data (http://human.brain-map.org/static/download) from the Allen Human Brain Atlas project must first be downloaded to conduct analysis. These files are to be placed in /data/raw/allen_hba (folder for each donor).
 
